@@ -21,5 +21,4 @@ public class E06 extends BoardGame{
 	public static void main(String[] args) {
 		new E06();
 	}
-
 }
