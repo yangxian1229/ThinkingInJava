@@ -26,5 +26,9 @@ public class PolyConstructors {
 	public static void main(String[] args) {
 		new RoundGlyph(5);
 	}
-
-}
+}/* Output:
+Glyph() before draw()
+RoundGlyph.draw(), radius=0
+Glyph() after draw()
+RoundGlyph.RoundGlyph(), radius=5
+*///£»~
