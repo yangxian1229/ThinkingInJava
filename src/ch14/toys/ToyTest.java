@@ -14,6 +14,9 @@ class Toy {
 
 class FancyToy extends Toy
 implements HasBatteries, Waterproof, Shoots, newInterface {
+	int a=1;
+	int b = 2;
+	String c = "sc";
   FancyToy() { super(1); }
 }
 
